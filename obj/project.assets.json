@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vitor\\Desktop\\BraveIndexInject\\BraveIndexInject.csproj",
+      "projectUniqueName": "C:\\Users\\vitor\\Desktop\\Bravely_Default_Index_Injector-master\\Bravely_Default_Index_Injector-master\\BraveIndexInject.csproj",
       "projectName": "BraveIndexInject",
-      "projectPath": "C:\\Users\\vitor\\Desktop\\BraveIndexInject\\BraveIndexInject.csproj",
+      "projectPath": "C:\\Users\\vitor\\Desktop\\Bravely_Default_Index_Injector-master\\Bravely_Default_Index_Injector-master\\BraveIndexInject.csproj",
       "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vitor\\Desktop\\BraveIndexInject\\obj\\",
+      "outputPath": "C:\\Users\\vitor\\Desktop\\Bravely_Default_Index_Injector-master\\Bravely_Default_Index_Injector-master\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",

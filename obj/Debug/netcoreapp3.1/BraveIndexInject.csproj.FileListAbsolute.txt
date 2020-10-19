@@ -11,3 +11,16 @@ C:\Users\vitor\Desktop\BraveIndexInject\obj\Debug\netcoreapp3.1\BraveIndexInject
 C:\Users\vitor\Desktop\BraveIndexInject\obj\Debug\netcoreapp3.1\BraveIndexInject.dll
 C:\Users\vitor\Desktop\BraveIndexInject\obj\Debug\netcoreapp3.1\BraveIndexInject.pdb
 C:\Users\vitor\Desktop\BraveIndexInject\obj\Debug\netcoreapp3.1\BraveIndexInject.genruntimeconfig.cache
+C:\Users\vitor\Desktop\Bravely_Default_Index_Injector-master\Bravely_Default_Index_Injector-master\bin\Debug\netcoreapp3.1\BraveIndexInject.exe
+C:\Users\vitor\Desktop\Bravely_Default_Index_Injector-master\Bravely_Default_Index_Injector-master\bin\Debug\netcoreapp3.1\BraveIndexInject.deps.json
+C:\Users\vitor\Desktop\Bravely_Default_Index_Injector-master\Bravely_Default_Index_Injector-master\bin\Debug\netcoreapp3.1\BraveIndexInject.runtimeconfig.json
+C:\Users\vitor\Desktop\Bravely_Default_Index_Injector-master\Bravely_Default_Index_Injector-master\bin\Debug\netcoreapp3.1\BraveIndexInject.runtimeconfig.dev.json
+C:\Users\vitor\Desktop\Bravely_Default_Index_Injector-master\Bravely_Default_Index_Injector-master\bin\Debug\netcoreapp3.1\BraveIndexInject.dll
+C:\Users\vitor\Desktop\Bravely_Default_Index_Injector-master\Bravely_Default_Index_Injector-master\bin\Debug\netcoreapp3.1\BraveIndexInject.pdb
+C:\Users\vitor\Desktop\Bravely_Default_Index_Injector-master\Bravely_Default_Index_Injector-master\obj\Debug\netcoreapp3.1\BraveIndexInject.csprojAssemblyReference.cache
+C:\Users\vitor\Desktop\Bravely_Default_Index_Injector-master\Bravely_Default_Index_Injector-master\obj\Debug\netcoreapp3.1\BraveIndexInject.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Bravely_Default_Index_Injector-master\Bravely_Default_Index_Injector-master\obj\Debug\netcoreapp3.1\BraveIndexInject.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\Bravely_Default_Index_Injector-master\Bravely_Default_Index_Injector-master\obj\Debug\netcoreapp3.1\BraveIndexInject.AssemblyInfo.cs
+C:\Users\vitor\Desktop\Bravely_Default_Index_Injector-master\Bravely_Default_Index_Injector-master\obj\Debug\netcoreapp3.1\BraveIndexInject.dll
+C:\Users\vitor\Desktop\Bravely_Default_Index_Injector-master\Bravely_Default_Index_Injector-master\obj\Debug\netcoreapp3.1\BraveIndexInject.pdb
+C:\Users\vitor\Desktop\Bravely_Default_Index_Injector-master\Bravely_Default_Index_Injector-master\obj\Debug\netcoreapp3.1\BraveIndexInject.genruntimeconfig.cache
