@@ -1,2 +1,0 @@
-BraveIndexInject -c n
-pause
