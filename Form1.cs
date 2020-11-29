@@ -131,11 +131,40 @@ namespace Teste
 
         private void comoUtilizarAEdiçãoDoCrowdfsToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Tutorial:", "Tutorial de uso da edição do Crowd.fs", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show(
+                "Tutorial:\n\n"+
+                "Escolha a pasta em que os arquivos extraídos e editados do Crowd.fs estejam com o seguinte caminho:\n\n" +
+
+                "\"Nome da pasta escolhida\"\\novo\\arquivos a serem compactados\n\n" +
+
+                "Será criado uma pasta \"Crowd\" com um novo arquivo crowd.fs, tendo um Append de todos os arquivos que estiverem na pasta escolhida\n\n" +
+                "No console de debug exibido, você poderá conferir quais arquivos foram inseridos, para verificar se tudo saiu como planejado", 
+                "Tutorial de uso da edição do Crowd.fs\n",
+                MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
         private void comoUtilizarAEdiçãoDoIndexfsToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Tutorial:", "Tutorial de uso da edição do Index.fs", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show(
+                "Tutorial:\n\n" +
+                "Escolha a pasta em que exista os seguintes arquivos nos caminhos determinados abaixo:\n\n" +
+                "Crowd.fs, index.fs e arquivos extraídos do Crowd.fs Originais:\n" +
+                "\"Nome da pasta escolhida\"\\antigo\\Crowd\\crowd.fs\n" +
+                "\"Nome da pasta escolhida\"\\antigo\\Crowd\\index.fs\n" +
+                "\"Nome da pasta escolhida\"\\antigo\\arquivos extraídos do crowd.fs\n\n" +
+
+                "Crowd.fs e arquivos extraídos do Crowd.fs Modificados:\n" +
+                "\"Nome da pasta escolhida\"\\novo\\Crowd\\crowd.fs\n" +
+                "\"Nome da pasta escolhida\"\\novo\\arquivos extraídos do crowd.fs\n\n\n" +
+
+                "Será criado uma cópia do arquivo Antigo index.fs e alterado os bytes que representam as seguintes operações:\n\n" +
+
+                "Tamanho do arquivo extraído do crowd.fs original -> Tamanho do arquivo extraído do crowd.fs modificado\n\n" +
+
+                "Em qual local o arquivo extraído se inicia no crowd.fs original -> Em qual local o arquivo extraído se inicia no crowd.fs modificado\n\n" +
+                "No console de debug, você poderá conferir quais os bytes que foram trocados, o vetor de bytes do index.fs original e o vetor de bytes do novo index.fs para verificar se tudo saiu como planejado",
+
+                "Tutorial de uso da edição do Index.fs",
+                MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         // Funções para o Index.fs
