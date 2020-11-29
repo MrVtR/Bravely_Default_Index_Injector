@@ -14,8 +14,8 @@ Para Debug do programa, foi criado a exibição de um Console para que o usuári
 1. Extraí a RomFS do jogo Brvaely Default e descompactei os arquivos Crowd.fs e Index.fs originais para que fosse gerado os sub-arquivos do projeto
 2. Estudei a estrutura de ponteiros e textos dos arquivos do jogo para realizar a engenharia reversa nos arquivos Mestre
 3. Implementei uma função com o objetivo de compactar os sub-arquivos e gerar um arquivo chamado Crowd.fs, utilizando da estrutura estudada
-4. Implementei uma função com o objeto de gerar o arquivo Index.fs com as sequências de bytes modificadas referentes ao tamanho dos arquivos traduzidos e da posição de onde se iniciam na compactação do novo Crowd.fs 
-4. Implementei uma interface gráfica para utilizar o programa de comunicação de forma mais intuitiva, adicionando um menu de Ajuda com tutoriais para utilizar o programa e abas de referência ao repositório do código e meu perfil no Github.
+4. Implementei uma função com o objetivo de gerar o arquivo Index.fs com as sequências de bytes modificadas referentes ao tamanho dos arquivos traduzidos e da posição de onde se iniciam na compactação do novo Crowd.fs 
+4. Criei uma interface gráfica para utilizar o programa de comunicação de forma mais intuitiva, adicionando um menu de Ajuda com tutoriais para utilizar o programa e abas de referência ao repositório do código e meu perfil no Github.
 
 ## Imagens/screenshots
 
